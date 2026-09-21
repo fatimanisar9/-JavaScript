@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(210, 230, 230);
+}
+h1{
+    color: azure;
+    background-color: blueviolet;
+}
+div{
+    font-size: larger;
+    color: brown;
+}
+button{
+    color: chocolate;
+    background-color: chartreuse;
+}
